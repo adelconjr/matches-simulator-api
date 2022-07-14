@@ -18,6 +18,24 @@
   },
   
   {
+    "descricao": "Elminatórias Copa 2022",
+    "local": {
+      "nome": "Estádio Centenario",
+      "imagem": "https://vejario.abril.com.br/wp-content/uploads/2021/03/maracan%C3%A3-em-alta.jpg" 
+    },
+    "mandante": {
+      "nome": "Colombia",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
+    },
+    "visitante": {
+      "nome": "Uruguai",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ay.png"
+    }
+  },
+  
+  {
     "descricao": "Copa das Confederações",
     "local": {
       "nome": "Stade de France",
