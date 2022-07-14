@@ -3,7 +3,7 @@
     "descricao": "Elminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO" 
+      "imagem": "https://vejario.abril.com.br/wp-content/uploads/2021/03/maracan%C3%A3-em-alta.jpg" 
     },
     "mandante": {
       "nome": "Brasil",
@@ -14,6 +14,24 @@
       "nome": "Argentina",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+  
+  {
+    "descricao": "Copa das Confederações",
+    "local": {
+      "nome": "Stade de France",
+      "imagem": "https://ogimg.infoglobo.com.br/in/7742440-ef6-db4/FT1086A/760/Stade-de-France-2.jpg" 
+    },
+    "mandante": {
+      "nome": "França",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/fr.png"
+    },
+    "visitante": {
+      "nome": "Portugal",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pt.png"
     }
   }
 ]
